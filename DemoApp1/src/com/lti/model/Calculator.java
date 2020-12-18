@@ -19,5 +19,9 @@ public class Calculator {
 		System.out.println();
 	}
 	
+	public void show() {
+		System.out.println("Display");
+	}
+	
  
 }
