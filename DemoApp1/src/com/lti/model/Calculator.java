@@ -1,3 +1,4 @@
+
 package com.lti.model;
 
 public class Calculator {
@@ -22,6 +23,10 @@ public class Calculator {
 	public void show() {
 		System.out.println("Display");
 	}
-	
+
+	public void greet(){
+                System.out.println();
+	}
  
 }
+
