@@ -18,6 +18,8 @@ public class Calculator {
 	public void display() {
 		System.out.println();
 	}
-	
+	public void greet(){
+                System.out.println();
+	}
  
 }
